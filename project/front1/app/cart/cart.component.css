@@ -1,0 +1,36 @@
+.orders {
+  width: 1340px;
+  height:1600px;
+  background-color: rgb(247, 247, 247);
+  padding-left: 100px;
+}
+
+h1{
+  margin-bottom: 20px;
+}
+
+.button-img  {
+  width: 25px;
+  height: 25px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+
+
+.order{
+  margin-bottom: 20px;
+}
+
+img {
+  width: 300px;
+  height: 200px;
+  padding-bottom: 100px;
+}
+
+.empty-cart{
+  width: 130px;
+  height: 50px;
+  background-color: white;
+  cursor: pointer;
+}

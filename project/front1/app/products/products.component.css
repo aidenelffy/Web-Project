@@ -1,0 +1,28 @@
+article{
+  width: 100%;
+  height: 100%;
+}
+.posts {
+  background-color: rgb(247, 247, 247);
+  columns: 2;
+  padding-left: 100px;
+}
+img {
+  width: 600px;
+  height: 500px;
+  padding-bottom: 100px;
+}
+li {
+  list-style-type: none;
+}
+h2 {
+  cursor: pointer;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-weight: 510;
+  font-size: 20px;
+}
+
+
+p {
+  font-style: italic;
+}
